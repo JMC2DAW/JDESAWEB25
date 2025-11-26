@@ -9,6 +9,8 @@ Este proyecto busca crear una plataforma dedicada a los *videojuegos indie*, ofr
 
 Para muchos de los apartados y funcionalidades se tiene en cuenta su página de [Steam](https://store.steampowered.com/?l=spanish)
 
+[![Steam](img/steam.png)](https://store.steampowered.com/?l=spanish)
+
 ## Motivación
 
 La motivación principal detrás de este proyecto radica en la pasión por los videojuegos indie y el deseo de construir una comunidad en línea que celebre su diversidad. Los videojuegos indie a menudo ofrecen experiencias únicas que no se encuentran en los títulos de grandes estudios, pero son opacados por las grandes empresas. Es fundamental darles visibilidad a los pequeños estudios que dedican mucho tiempo y recursos a sus increíbles obras.
