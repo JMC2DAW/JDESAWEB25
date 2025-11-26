@@ -100,3 +100,7 @@ pruebas y un entorno de desarrollo local.
 
 ### Wireframing
 [![Figma](https://www.pixartprinting.it/blog/wp-content/uploads/2022/12/figma_logo.png)](https://www.figma.com)
+
+## Funciones:
+
+[Planeamiento de compras](detalles_funcion_planeamiento.md)
