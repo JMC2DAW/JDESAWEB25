@@ -9,7 +9,7 @@ Este proyecto busca crear una plataforma dedicada a los *videojuegos indie*, ofr
 
 Para muchos de los apartados y funcionalidades se tiene en cuenta su página de [Steam](https://store.steampowered.com/?l=spanish)
 
-[![Steam](img/steam.png)](https://store.steampowered.com/?l=spanish)
+[![Steam](img/Steam.png)](https://store.steampowered.com/?l=spanish)
 
 ## Motivación
 
